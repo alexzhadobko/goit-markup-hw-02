@@ -90,6 +90,14 @@ body {
 .body{
     background: #F5F5F5;
 }
+
+.portfolio-title{
+    font-size: 18px;
+    line-height: 2.0;
+    letter-spacing: 0.06em;
+    color: #212121;
+}
+
 .portfolio-subtitle{
     line-height: 1.8;
     letter-spacing: 0.03em;

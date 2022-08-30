@@ -86,13 +86,17 @@ body {
     background-color: #2F303A;
 }
 .main-title{
-    font-weight: 900;
     font-size: 44px;
     line-height: 1.36;
-    text-align: center;
     letter-spacing: 0.06em;
     text-transform: uppercase;
     color: #FFFFFF;
+}
+.abaut-title {
+    font-size: 14px;
+    line-height: 1.71;
+    letter-spacing: 0.03em;
+    color: #757575;
 }
 .abaut-subtitle {
     font-size: 14px;
@@ -100,9 +104,31 @@ body {
     letter-spacing: 0.03em;
     color: #757575;
 }
+
+.our-work-title {
+    font-size: 36px;
+    line-height: 1.16;
+    letter-spacing: 0.03em;
+    color: #212121;
+}
 .our-team {
 background: #F5F4FA;
 }
+
+.our-team-title{
+    font-size: 36px;
+    line-height: 1.16;
+    letter-spacing: 0.03em;
+    color: #212121;
+}
+.our-team-members
+{
+    font-size: 16px;
+    line-height: 1.18;
+    letter-spacing: 0.03em;
+    color: #212121;
+}
+
 .our-team-subtitle{
     line-height: 1.18;
     letter-spacing: 0.03em;
